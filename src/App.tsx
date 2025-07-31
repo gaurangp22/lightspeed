@@ -1,6 +1,6 @@
 import './App.css'
 import { BackgroundBeamsDemo } from './BackgroundBeams'
-import { Cover } from './components/ui/cover'
+
 
 function App() {
   return (
