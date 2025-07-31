@@ -83,7 +83,7 @@ const PfpGenerator = () => {
     return (
         <div className="bg-[#111111] text-white p-12 rounded-2xl max-w-lg w-full text-center shadow-2xl border border-gray-800 font-anton">
             <h1 className="text-4xl mb-2 text-white">
-                <Cover>Your $Lightspeed Pop Gen</Cover>
+                <Cover>$Lightspeed Pop Gen</Cover>
             </h1>
             <p className="text-gray-400 mb-8 text-lg">
                 Upload a pic. Watch it transform. Stand out on-chain.
